@@ -1,3 +1,5 @@
+Wake On Lan (but over the Internet)
+
 Eine einfache Weboberfläche mit einem Button, gehostet auf einem ESP, um einen PC auch außerhalb des eigenen Netzwerkes zu starten.
 
 MagicPacket.ino Template - erzeugt ein Magic Packet zum Starten eines PC's innerhalb eines Netzwerkes (benötigt wird Netzwerkname (SSID), Passwort und die MAC Adresse des zu startenden PC's)
