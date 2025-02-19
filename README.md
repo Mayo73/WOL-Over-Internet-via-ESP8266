@@ -7,6 +7,6 @@ SimpleWebServer.ino Template - stellt eine sehr simple Weboberfläche mit einem 
 CompleteCode.ino - fertiger Code, welcher aus MagicPacket.ino und SimpleWebServer.ino passend zusammengestellt wurde - (benötigt wird Netzwerkname (SSID), Passwort und die MAC Adresse des zu startenden PC's)
 
 Benögigt wird:
-ESP8266 (Im Projekt wurde ein LONIN(WEMOS) D1 mini Pro verwendet)
-Arduino Entwicklungsumgung
+ESP8266 (Im Projekt wurde ein LONIN(WEMOS) D1 mini Pro verwendet),
+Arduino Entwicklungsumgung,
 USB Datenkabel
